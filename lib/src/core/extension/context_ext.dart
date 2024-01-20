@@ -52,8 +52,3 @@ extension ContextExt on BuildContext {
   // check if device is tablet or phone
   bool get isTablet => (MediaQuery.of(this).size.width < 600) ? false : true;
 }
-
-extension InterFont on TextStyle {
-  // Inter Font
-  TextStyle get inter => GoogleFonts.inter();
-}
