@@ -1,0 +1,15 @@
+{
+  "appName": "My App",
+  "employeeList": "Employee List",
+  "addEmployee": "Add Employee Details",
+  "editEmployee": "Edit Employee Details",
+  "afterOneWeek": "After 1 Week",
+  "nextTuesday": "Next Tuesday",
+  "nextMonday": "Next Monday",
+  "today": "Today",
+  "cancel": "Cancel",
+  "ok": "OK",
+  "save": "Save",
+  "delete": "Delete",
+  "update": "Update"
+}
